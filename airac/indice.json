@@ -1,0 +1,38 @@
+{
+ "app": "PariFlight",
+ "tipo": "airac",
+ "formato": 1,
+ "lotes": [
+  {
+   "id": "2026-06-11-r2",
+   "ciclo": "AIRAC 1/2026",
+   "vigencia": "2026-06-11",
+   "rev": 2,
+   "huella": "ae94aea43b103915d076329e6d66c8b6f3538b6b2447b08287a2367bfa5b58c3",
+   "publicado": "2026-11-12T17:29:37.829Z",
+   "archivos": {
+    "ficha": {
+     "f": "2026-06-11-r2/ficha.json",
+     "sha256": "87d8cbd06ee946996778968ee0254c5c137e7baa97c6928fb05e49220dcff76f",
+     "bytes": 210977
+    },
+    "frec": {
+     "f": "2026-06-11-r2/frec.json",
+     "sha256": "dd3086b13121ea68cf06aa2ba4529daafb5d0efd9b2db467ee4adf392c3a506a",
+     "bytes": 51313
+    },
+    "espacio": {
+     "f": "2026-06-11-r2/espacio.json",
+     "sha256": "32e86a889ac48e5bba5ec1fcaf6c2bf7b27f82a9e915da94c1c3e70fb2420d6e",
+     "bytes": 210473
+    },
+    "oficinas": {
+     "f": "2026-06-11-r2/oficinas.json",
+     "sha256": "d9dda5deb20bc164fe764f5066e90984a08edf79a97de3a8184224562548131c",
+     "bytes": 16351
+    }
+   }
+  }
+ ],
+ "actualizado": "2026-11-12T17:29:37.830Z"
+}
