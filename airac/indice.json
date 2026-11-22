@@ -4,35 +4,40 @@
  "formato": 1,
  "lotes": [
   {
-   "id": "2026-06-11-r3",
+   "id": "2026-06-11-r4",
    "ciclo": "AIRAC 1/2026",
    "vigencia": "2026-06-11",
-   "rev": 3,
-   "huella": "071fe7bcda004bc8817219cf99aa27e567ed06ef782d8b710383564e7c7952e3",
-   "publicado": "2026-11-16T13:38:28.654Z",
+   "rev": 4,
+   "huella": "4012f42ea999589b3154fdaf5605006e401975c1e19491064a4b47048c0570a7",
+   "publicado": "2026-11-22T22:27:56.719Z",
    "archivos": {
     "ficha": {
-     "f": "2026-06-11-r3/ficha.json",
-     "sha256": "d5954381aaa8540d20af2c641b31f8b1b390bb0b5effb3f4dcae81bf1f8119cc",
-     "bytes": 211641
+     "f": "2026-06-11-r4/ficha.json",
+     "sha256": "ed10da9ef5c0930e70dcab8c44a2ba5cec58ae5f3455b2631ee044bc4e6ac1fe",
+     "bytes": 224229
+    },
+    "ficha2": {
+     "f": "2026-06-11-r4/ficha2.json",
+     "sha256": "8688d82e4bbbf98294efc843ccf1e643c263aa8e0cc9e2f018ad173e7d3d910e",
+     "bytes": 413853
     },
     "frec": {
-     "f": "2026-06-11-r3/frec.json",
-     "sha256": "9a1e95c3e8f3b1514a7ca52b378987d056e1f6d654c7a047977ba7e02af364de",
-     "bytes": 51313
+     "f": "2026-06-11-r4/frec.json",
+     "sha256": "7edfb5bda6fcde4cbe37428f010e2543762010c771edda4aab79e430a98aee0d",
+     "bytes": 56700
     },
     "espacio": {
-     "f": "2026-06-11-r3/espacio.json",
-     "sha256": "32e86a889ac48e5bba5ec1fcaf6c2bf7b27f82a9e915da94c1c3e70fb2420d6e",
-     "bytes": 210473
+     "f": "2026-06-11-r4/espacio.json",
+     "sha256": "bbb2b69f9a811bbea0366521e492b382f609a955dff444807c227283e30927f2",
+     "bytes": 373106
     },
     "oficinas": {
-     "f": "2026-06-11-r3/oficinas.json",
-     "sha256": "d9dda5deb20bc164fe764f5066e90984a08edf79a97de3a8184224562548131c",
-     "bytes": 16351
+     "f": "2026-06-11-r4/oficinas.json",
+     "sha256": "65c88deb8caee769044ba251b0c610baad19739e4ac178951264e63092d24b10",
+     "bytes": 16428
     }
    }
   }
  ],
- "actualizado": "2026-11-16T13:38:28.655Z"
+ "actualizado": "2026-11-22T22:27:56.720Z"
 }
